@@ -66,10 +66,10 @@ Each step in this 100 Days of Data Science journey brings me closer to the beaut
 ## 👩‍💻 Author
 
 **Khadija Rao**  
-📍 *Bahawalnagar, Pakistan*  
+ 
 🎯 *100 Days of Data Science Challenge Participant*  
 🔗 *LinkedIn*  
-
+linkedin.com/in/rao-umar-904807355
 ---
 
 ## 📜 License
